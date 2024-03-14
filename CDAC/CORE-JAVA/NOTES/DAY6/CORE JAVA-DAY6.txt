@@ -1,0 +1,137 @@
+					CORE JAVA-DAY6
+Part II
+
+classes and object
+constructor
+static and non static behaviour of method and variable
+this
+
+array of object
+
+inheritance
+
+encapsulation
+
+method
+
+static method
+non static method
+
+variable
+
+static variable
+non static  variable
+
+
+
+
+---------------------------------------
+
+class test
+{
+void  add(int a,int b)
+{
+
+}
+
+main()
+{
+
+Test t = new Test()
+
+   t.add()
+}
+
+}
+
+this
+
+Array of object
+
+-------------------------------------------------
+inheritance
+
+inheritance is process of acquiring the properties and the behaviour from one
+class to another class
+
+
+class A
+{
+feature 1
+feature 2
+
+
+
+}
+
+
+class B extend A
+
+{
+feature 3
+
+
+}
+
+B b = new B()
+b.feature1
+b.featrue2
+b.feature3
+
+
+
+super class
+
+
+sub class
+
+creating sub class object accessing the feature of sub class and the features super class 
+is called inheritance
+
+
+advantage
+1) code reusability
+2) get runtime polymorphism
+
+class Emp()
+{
+
+  void disp()
+{
+}
+
+
+}
+
+class testemp()
+{
+
+   Emp e = new Emp();
+     e.disp()
+}
+
+--------------------------------------------
+
+class test
+{
+
+main()
+{
+   Scanner s = new Scanner()
+   s.nextINt();
+
+}
+
+
+}
+
+
+type of inheritance
+
+simple
+
+
+
+
+
+
